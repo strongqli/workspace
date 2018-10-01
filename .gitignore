@@ -1,3 +1,4 @@
 /.metadata
 /.recommenders
 **/node_modules
+/my-app
